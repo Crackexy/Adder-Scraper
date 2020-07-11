@@ -11,7 +11,7 @@
 ```
 ## How To Use :
 ```
-> Open Turmux app
+>Open Terminal (cmd or turmux)
 >pkg update
 > pkg install pip
 > pkg install -y git python
