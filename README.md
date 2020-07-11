@@ -1,12 +1,19 @@
 # DEADBOY
 
 ### Telegram Adder And Scraper By **DeadBoy** For TeleGram.
+
+##Api Setup :
+•>Go to http://my.telegram.org and log in.
+•>Click on API development tools and fill the required fields.
+•>put app name you want & select other in platform Example :
+•>copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
+
 ## How To Use :
 ```
 > Open Turmux app
 >pkg update
 > pkg install pip
-> pkg install python
+> pkg install -y git python
 > pip install telethon
 > cd
 > ls
@@ -26,4 +33,4 @@
 
 #### Now simply give your api id and api hash and your mobile number with country code in config.ini and then scrape members and then simply add member by giving him command python adder.py member.csv now it will ask in which group we want to add memebrs just type the digit and thats all 
 
-# HAPPY FREE MEMBERS😁😁😁
+## HAPPY FREE MEMBERS😁😁😁
