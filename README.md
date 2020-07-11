@@ -15,6 +15,8 @@ cd
 ls
 cd adder-scraper
 ls
-### Now simply give your api id and api hash and your contact in config.ini and then scrape members and then simply add member by giving him command python adder.py member.csv now it will ask inwhich group we want to add memebrs just type the digit amd thats all 
 ```
-### HAPPY FREE MEMBERS😁😁😁
+
+## Now simply give your api id and api hash and your contact in config.ini and then scrape members and then simply add member by giving him command python adder.py member.csv now it will ask inwhich group we want to add memebrs just type the digit amd thats all 
+
+# HAPPY FREE MEMBERS😁😁😁
