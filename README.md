@@ -1,4 +1,4 @@
-#### ****DEADBOY****
+# DEADBOY
 
 ### Telegram Adder And Scraper By **DeadBoy** For Turmux.
 ## How  To Use :
