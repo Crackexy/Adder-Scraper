@@ -1,6 +1,5 @@
-#### **DEADBOY**
+#### ****DEADBOY****
 
-### Telegram Adder-Scraper for Turmux Android.
 ### Telegram Adder And Scraper By **DeadBoy** For Turmux.
 ## How  To Use :
 ```
