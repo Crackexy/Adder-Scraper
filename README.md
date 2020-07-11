@@ -1,8 +1,7 @@
 # DEADBOY
-
 ### Telegram Adder And Scraper By **DeadBoy** For TeleGram.
 
-##Api Setup :
+## Api Setup :
 ```
 •>Go to http://my.telegram.org and log in.
 •>Click on API development tools and fill the required fields.
