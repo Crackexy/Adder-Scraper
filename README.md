@@ -33,6 +33,6 @@
 > Python adder.py then (steps provided).
 ```
 
-###### > Now simply give your api id and api hash and your mobile number with country code in config.ini and then scrape members and then simply add member by giving him command `python adder.py member.csv` now it will ask in which group we want to add memebrs just type the digit and thats all 
+##### > Now simply give your api id and api hash and your mobile number with country code in config.ini and then scrape members and then simply add member by giving him command `python adder.py member.csv` now it will ask in which group we want to add memebrs just type the digit and thats all 
 
 ## > HAPPY FREE MEMBERS😁😁😁
